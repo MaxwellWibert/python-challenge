@@ -1,5 +1,6 @@
+
 Financial Analysis 
-____________________
+--------------------
 Total Months: 86
 Total Profit: 38382578 
 Average Change: -2288.20
