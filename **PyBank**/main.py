@@ -88,7 +88,7 @@ for index, row in enumerate(table):
 first_row = table[0]
 final_row = table[month_count-1]
 
-average_profit_change = format((final_row[1]-first_row[1])/month_count, ".2f")
+average_profit_change = format((final_row[1]-first_row[1])/(month_count-1), ".2f")
 
 
 # In[72]:
